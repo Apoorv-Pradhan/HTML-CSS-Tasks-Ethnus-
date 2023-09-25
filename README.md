@@ -1,1 +1,1 @@
-# MERN-Assignment
+HTML & CSS Tasks (Ethnus)
